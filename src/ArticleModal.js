@@ -16,9 +16,9 @@ modalIsOpen: true
 
 <Modal className='ModalWindow' isOpen={this.state.modalIsOpen}>
 <div className='Modal_content'>
-<h2>Увійдіть в систему для детального огляду статей</h2>
-<button><Link to='/login' style={{color: 'black'}}>Увійти</Link></button>
-<button onClick={() => {this.setState({modalIsOpen: false}); this.props.closeModal('/');} }>Закрити вікно </button>
+<h2>Log in for a detailed view of articles</h2>
+<button><Link to='/login' style={{color: 'black'}}>Sign in</Link></button>
+<button onClick={() => {this.setState({modalIsOpen: false}); this.props.closeModal('/');} }>Close</button>
 </div>
       <BrowserRouter>
       <Route path ='/login' exact component = {Login} />
