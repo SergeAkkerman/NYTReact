@@ -4,7 +4,7 @@ When registering a new user via the “login / password” form, the default ava
 
 ## Application structure:
 
-App.js - home page
+App.js - home page </br>
 Header.js - application header
 Dropdown.js - icon with a dropdown menu in the header
 LoginForm.js and Login.js - login form
