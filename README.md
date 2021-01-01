@@ -5,14 +5,14 @@ When registering a new user via the “login / password” form, the default ava
 ## Application structure:
 
 App.js - home page </br>
-Header.js - application header
-Dropdown.js - icon with a dropdown menu in the header
-LoginForm.js and Login.js - login form
-Signup.js - registration form
-Articles.js - module for displaying articles
-ArticleModal - window for displaying a detailed description of the article
-Profile.js - user profile
-Modal.js - login window when user ir not signed in
+Header.js - application header</br>
+Dropdown.js - icon with a dropdown menu in the header</br>
+LoginForm.js and Login.js - login form</br>
+Signup.js - registration form</br>
+Articles.js - module for displaying articles</br>
+ArticleModal - window for displaying a detailed description of the article</br>
+Profile.js - user profile</br>
+Modal.js - login window when user ir not signed in</br>
 
 ## libraries:
 
