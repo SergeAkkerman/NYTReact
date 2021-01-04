@@ -1,7 +1,6 @@
 import React, { useState, Component } from 'react';
 import fire from './config/Fire';
 import {BrowserRouter, Route, NavLink} from 'react-router-dom';
-import './App.css';
 
 class Dropdown extends React.Component {
 
