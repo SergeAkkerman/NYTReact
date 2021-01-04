@@ -2,7 +2,6 @@ import React from 'react';
 import fire from './config/Fire';
 import Login from './Login.js';
 import axios from 'axios';
-import './App.css';
 import ReactModal from 'react-modal';
 import ArticleModal from './ArticleModal.js';
 
