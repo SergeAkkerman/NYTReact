@@ -6,7 +6,7 @@ import Home from './Home.js';
 import Header from './Header.js';
 import Articles,  {Active} from './Articles.js';
 import {BrowserRouter, Route, NavLink} from 'react-router-dom';
-import './App.css';
+import './styles/App.css';
 import Dropdown from './Dropdown.js';
 import Profile from './Profile.js';
 
